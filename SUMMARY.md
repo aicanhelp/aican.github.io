@@ -8,18 +8,18 @@
 
 ## 二、计算机科学
 
-* [算法与数据结构]
-  * [十大经典排序算法](2.CS/Java-Sorting-Algorithm/README.md)
-    * [冒泡排序](2.CS/Java-Sorting-Algorithm/1.bubbleSort.md)
-    * [选择排序](CS/Java-Sorting-Algorithm/2.selectionSort.md)
-    * [插入排序](CS/Java-Sorting-Algorithm/3.insertionSort.md)
-    * [希尔排序](CS/Java-Sorting-Algorithm/4.shellSort.md)
-    * [归并排序](CS/Java-Sorting-Algorithm/5.mergeSort.md)
-    * [快速排序](CS/Java-Sorting-Algorithm/6.quickSort.md)
-    * [堆排序](CS/Java-Sorting-Algorithm/7.heapSort.md)
-    * [计数排序](CS/Java-Sorting-Algorithm/8.countingSort.md)
-    * [桶排序](CS/Java-Sorting-Algorithm/9.bucketSort.md)
-    * [基数排序](CS/Java-Sorting-Algorithm/10.radixSort.md)
+* 算法与数据结构
+  * [十大经典排序算法](2.CS/1.Algorithm/Sorting-Algorithm/README.md)
+    * [冒泡排序](2.CS/1.Algorithm/Sorting-Algorithm/1.bubbleSort.md)
+    * [选择排序](2.CS/1.Algorithm/Sorting-Algorithm/2.selectionSort.md)
+    * [插入排序](2.CS/1.Algorithm/Sorting-Algorithm/3.insertionSort.md)
+    * [希尔排序](2.CS/1.Algorithm/Sorting-Algorithm/4.shellSort.md)
+    * [归并排序](2.CS/1.Algorithm/Sorting-Algorithm/5.mergeSort.md)
+    * [快速排序](2.CS/1.Algorithm/Sorting-Algorithm/6.quickSort.md)
+    * [堆排序](2.CS/1.Algorithm/Sorting-Algorithm/7.heapSort.md)
+    * [计数排序](2.CS/1.Algorithm/Sorting-Algorithm/8.countingSort.md)
+    * [桶排序](2.CS/1.Algorithm/Sorting-Algorithm/9.bucketSort.md)
+    * [基数排序](2.CS/1.Algorithm/Sorting-Algorithm/10.radixSort.md)
 * 编程语言
 * 前端开发
 * 后端服务
@@ -38,12 +38,12 @@
 
 * 数据处理
 * 数据存储
-* [信息检索](./chap02/2-1.md)
+* 信息检索
 * 数据智能
 
 ## 五、人工智能
 
-* [机器学习](./chap02/2-1.md)
+* 机器学习
 * 深度学习
 * 计算机视觉
 * 自然语言处理
