@@ -21,6 +21,10 @@
     * [桶排序](CS/Java-Sorting-Algorithm/9.bucketSort.md)
     * [基数排序](CS/Java-Sorting-Algorithm/10.radixSort.md)
 * 编程语言
+* 前端开发
+* 后端服务
+* 图形图像
+* 视频技术
 
 ## 三、云计算
 
@@ -44,9 +48,11 @@
 * 计算机视觉
 * 自然语言处理
 
-## 六、5G技术
+## 六、应用技术
 
-## 七、区块链技术
+* AR与VR
+* 5G
+* 区块链
 
 ## 八、其他
 
