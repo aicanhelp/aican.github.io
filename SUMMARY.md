@@ -8,7 +8,7 @@
 
 ## 二、计算机科学
 
-* 算法与数据结构
+* [算法与数据结构](er-3001-ji-suan-ji-ke-xue/suan-fa-yu-shu-ju-jie-gou.md)
   * [十大经典排序算法](2.CS/1.Algorithm/Sorting-Algorithm/README.md)
     * [冒泡排序](2.CS/1.Algorithm/Sorting-Algorithm/1.bubbleSort.md)
     * [选择排序](2.CS/1.Algorithm/Sorting-Algorithm/2.selectionSort.md)
@@ -55,6 +55,8 @@
 * 区块链
 
 ## 八、其他
+
 * 工具
   * 博客工具
     * gitbook
+
